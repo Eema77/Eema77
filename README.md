@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Emir 
 - 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning ISTQB / Automation
+- Certified tester
+- Solution-oriented, proactive Tester with 2+ years of experience 
 - 💞️ I’m looking to collaborate on various QA tasks/projects
 - 📫 How to reach me ... emirmuhic77@gmail.com
 
