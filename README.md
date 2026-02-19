@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Emir 
-- 👀 I’m interested in Software Testing
+- 👀 I’m interested in Quality Assurance / Software Testing / Automation / AI
 - Certified tester
-- Solution-oriented, proactive Tester with 2+ years of experience 
-- 💞️ I’m looking to collaborate on various QA tasks/projects
-- 📫 How to reach me ... emirmuhic77@gmail.com
+- Solution-oriented, proactive Tester with 3.5 + years of experience 
+- 📫 How to reach me ... emirmuhic77@gmail.com  /  https://www.linkedin.com/in/emir-muhic-6a9493114/
 
 <!---
 Eema77/Eema77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
